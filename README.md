@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slendagh
-- 👀 I’m a web developer coding mainly in php/Laravel
+- 👀 I’m a web developer coding mainly in React .Net and Laravel
 - 🌱 Currently building an API
 - 💞️ I would love to help/collaborate in your project
 - 📫 Check my portfolio azaroualasmaa.com
